@@ -1,0 +1,29 @@
+\begin{theindex}
+
+  \item 表格, \hyperpage{7}
+    \subitem 长表格, \hyperpage{9}
+    \subitem 子表, \hyperpage{9}
+
+  \indexspace
+
+  \item 参考文献
+    \subitem 上标, \hyperpage{15}
+    \subitem 文中, \hyperpage{16}
+  \item 插图, \hyperpage{5}
+    \subitem 并列图, \hyperpage{6}
+    \subitem 短标题, \hyperpage{6}
+    \subitem 子图, \hyperpage{6}
+
+  \indexspace
+
+  \item 文档类选项, \hyperpage{5}
+    \subitem abGB, \hyperpage{5}
+    \subitem CJKchapter, \hyperpage{5}
+    \subitem noabcount, \hyperpage{5}
+    \subitem nochaphead, \hyperpage{5}
+
+  \indexspace
+
+  \item 字号大小, \hyperpage{10}
+
+\end{theindex}

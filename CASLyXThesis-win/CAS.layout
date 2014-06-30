@@ -1,0 +1,201 @@
+#% Do not delete the line below; configure depends on this
+#  \DeclareLaTeXClass{bookCJKChapter}
+# Book textclass definition file. Taken from initial LyX source code
+# Author : Matthias Ettrich <ettrich@informatik.uni-tuebingen.de>
+# Transposed by Pascal André <andre@via.ecp.fr>
+# Heavily modifed and enhanced by serveral developers.
+
+
+Format 35
+
+Input stdclass.inc
+Input numreport.inc
+
+NoStyle Part
+NoStyle Part*
+#NoStyle Chapter*
+NoStyle Section*
+NoStyle Subsection*
+NoStyle Subsubsection*
+NoStyle Paragraph*
+NoStyle Subparagraph*
+NoStyle Address
+NoStyle Right_Address
+NoStyle Labeling
+NoStyle Bibliography
+
+Style Chapter*
+    Align           center
+End
+
+Style confidential
+    CopyStyle       Author
+    LatexName       confidential
+    LabelType       Static
+    LabelString     "密级："
+End
+
+Style thesistype
+    CopyStyle       Author
+    LatexName       thesistype
+    LabelType       Static
+    LabelString     "论文种类："
+End
+
+Style tutor
+    CopyStyle       Author
+    LatexName       tutor
+    LabelType       Static
+    LabelString     "指导教师："
+End
+
+Style tutorinstitute
+    CopyStyle       Author
+    LatexName       tutorinstitute
+    LabelType       Static
+    LabelString     "指导教师单位："
+End
+
+Style degree
+    CopyStyle       Author
+    LatexName       degree
+    LabelType       Static
+    LabelString     "学位类别："
+End
+
+Style institute
+    CopyStyle       Author
+    LatexName       institute
+    LabelType       Static
+    LabelString     "培养单位："
+End
+
+Style major
+    CopyStyle       Author
+    LatexName       major
+    LabelType       Static
+    LabelString     "学科专业："
+End
+
+
+Style SubTitle
+    CopyStyle       Title
+    LabelType       Static
+    LatexName       subtitle
+    LabelString     "副标题："
+End
+
+Style Title(en)
+    CopyStyle       Title
+    LatexName       etitle
+End
+
+Style SubTitle(en)
+    CopyStyle       Title
+    LabelType       Static
+    LatexName       esubtitle
+    LabelString     "SubTitle(en)："
+End
+
+Style Degree(en)
+    CopyStyle       Author
+    LabelType       Static
+    LatexName       edegree
+    LabelString     "Degree(en):"
+End
+
+Style Major(en)
+    CopyStyle       Author
+    LatexName       emajor
+    LabelType       Static
+    LabelString     "Major(en):"
+End
+
+Style MajorType(en)
+    CopyStyle       Author
+    LatexName       emajortype
+    LabelType       Static
+    LabelString     "MajorType(en):"
+End
+
+Style Author(en)
+    CopyStyle       Author
+    LatexName       eauthor
+    LabelString     "Author(en):"
+End
+
+Style Tutor(en)
+    CopyStyle       Author
+    LatexName       etutor
+    LabelType       Static
+    LabelString     "Tutor(en):"
+End
+
+Style Institute(en)
+    CopyStyle       Author
+    LatexName       einstitute
+    LabelType       Static
+    LabelString     "Institute(en):"
+End
+
+
+Style Date(en)
+    CopyStyle       Date
+    LatexName       edate
+    LabelType       Static
+    LabelString     "Date(en):"
+End
+
+Style Abstract
+    CopyStyle       Abstract
+    LatexName       abstract
+    LabelString     "Abstract"
+  
+End
+
+Style Keywords
+    CopyStyle       Abstract
+    LatexType       Command
+    LatexName       keywords
+    LabelType       Static
+    LabelString     "关键词:"
+    LabelFont
+      Series        Bold
+      Size          Small
+    EndFont
+    LeftMargin	    MMMMMMMMMa
+    Align           left
+End
+
+Style Abstract(en)
+    CopyStyle       Abstract
+    LatexName       eabstract
+    LabelString     "Abstract(en)"
+End
+
+Style Keywords(en)
+    CopyStyle       Keywords               
+    LatexName       ekeywords
+    LabelType       Static
+    LabelString     "Keywords(en):"
+    LeftMargin	    MMMMMMMMMMMMMMMM
+    Align           left
+End
+
+Style Declaration
+    CopyStyle       Abstract
+    LatexType       Command
+    Category        BackMatter
+    LatexName       Declaration
+    LabelType       Centered_Top_Environment
+    TopSep          1
+    LabelString     "学位论文使用权声明"
+    LabelFont
+      Series        Bold
+      Size          Largest
+    EndFont
+End
+
+
+
+

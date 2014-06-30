@@ -1,0 +1,129 @@
+\addvspace {6\p@ }
+\contentsline {chapter}{致\hskip 1em\relax {}谢}{5}{chapter*.1}
+\addvspace {6\p@ }
+\contentsline {chapter}{摘\hskip 1em\relax 要}{7}{section*.2}
+\addvspace {6\p@ }
+\contentsline {chapter}{Abstract}{9}{section*.3}
+\addvspace {6\p@ }
+\contentsline {chapter}{目\hskip 1em\relax 录\markboth {\MakeUppercase {目\hskip 1em\relax 录}}{\MakeUppercase {目\hskip 1em\relax 录}}}{11}{chapter*.4}
+\addvspace {6\p@ }
+\contentsline {chapter}{插图目录}{15}{chapter*.5}
+\addvspace {6\p@ }
+\contentsline {chapter}{表格目录}{17}{chapter*.6}
+\addvspace {6\p@ }
+\contentsline {chapter}{1\hskip 1em\relax 绪论}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}研究目的}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}本文的贡献}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}用前必读}{2}{section.1.3}
+\addvspace {6\p@ }
+\contentsline {chapter}{2\hskip 1em\relax 关于本模板}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}软件安装与配置}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Debian系统的安装}{3}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Windows 7系统的安装}{3}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}字体与软件配置}{4}{subsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.3.1}字体配置}{4}{subsubsection.2.1.3.1}
+\contentsline {subsubsection}{\numberline {2.1.3.2}软件配置}{4}{subsubsection.2.1.3.2}
+\addvspace {6\p@ }
+\contentsline {chapter}{3\hskip 1em\relax 常用排版示例与模板使用方法}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}文档类选项的使用}{5}{section.3.1}
+\contentsline {section}{\numberline {3.2}插图示例}{5}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}单图}{5}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}子图}{6}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}并列图}{6}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}单页图}{7}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}表格示例}{7}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}单独表}{7}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}子表}{9}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}并列表}{9}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}长表格}{9}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}文字大小}{10}{section.3.4}
+\contentsline {section}{\numberline {3.5}公式示例}{10}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}\LyX {}中公式的显示}{10}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}公式的录入}{11}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}关于交叉引用}{11}{section.3.6}
+\contentsline {section}{\numberline {3.7}参考文献}{12}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}参考文献条目的日常维护}{12}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}可选择的修改方式}{15}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.3}结合Jabref的使用}{15}{subsection.3.7.3}
+\contentsline {subsection}{\numberline {3.7.4}上标形式的参考文献}{15}{subsection.3.7.4}
+\contentsline {subsection}{\numberline {3.7.5}行文中的参考文献}{16}{subsection.3.7.5}
+\contentsline {section}{\numberline {3.8}列表环境}{16}{section.3.8}
+\contentsline {section}{\numberline {3.9}术语表、附录与索引}{16}{section.3.9}
+\contentsline {subsection}{\numberline {3.9.1}术语表}{16}{subsection.3.9.1}
+\contentsline {subsection}{\numberline {3.9.2}附录}{16}{subsection.3.9.2}
+\contentsline {subsection}{\numberline {3.9.3}索引}{16}{subsection.3.9.3}
+\contentsline {section}{\numberline {3.10}符号输入}{17}{section.3.10}
+\contentsline {section}{\numberline {3.11}行文建议}{17}{section.3.11}
+\contentsline {section}{\numberline {3.12}文档输出}{17}{section.3.12}
+\contentsline {section}{\numberline {3.13}论文打印注意事项}{18}{section.3.13}
+\contentsline {section}{\numberline {3.14}不使用\LyX {}的处理}{18}{section.3.14}
+\addvspace {6\p@ }
+\contentsline {chapter}{4\hskip 1em\relax 中国科学院研究生院研究生学位论文撰写规定 }{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}学位论文的一般要求}{21}{section.4.1}
+\contentsline {section}{\numberline {4.2}学位论文的水平要求}{21}{section.4.2}
+\contentsline {section}{\numberline {4.3}撰写学位论文的语言及文字}{21}{section.4.3}
+\contentsline {section}{\numberline {4.4}学位论文的主要组成部分}{22}{section.4.4}
+\contentsline {section}{\numberline {4.5}学位论文印刷及装订要求}{23}{section.4.5}
+\contentsline {section}{\numberline {4.6}学位论文的提交、保存与使用}{23}{section.4.6}
+\addvspace {6\p@ }
+\contentsline {chapter}{5\hskip 1em\relax 研究生学位论文写作规范（讨论稿）}{25}{chapter.5}
+\contentsline {section}{\numberline {5.1}学位论文基本结构}{25}{section.5.1}
+\contentsline {section}{\numberline {5.2}学位论文格式要求}{25}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}封面}{25}{subsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.1.1}密级}{25}{subsubsection.5.2.1.1}
+\contentsline {subsubsection}{\numberline {5.2.1.2}论文题目}{25}{subsubsection.5.2.1.2}
+\contentsline {subsubsection}{\numberline {5.2.1.3}作者姓名}{25}{subsubsection.5.2.1.3}
+\contentsline {subsubsection}{\numberline {5.2.1.4}指导教师}{25}{subsubsection.5.2.1.4}
+\contentsline {subsubsection}{\numberline {5.2.1.5}学位类别}{26}{subsubsection.5.2.1.5}
+\contentsline {subsubsection}{\numberline {5.2.1.6}学科专业}{26}{subsubsection.5.2.1.6}
+\contentsline {subsubsection}{\numberline {5.2.1.7}培养单位}{26}{subsubsection.5.2.1.7}
+\contentsline {subsubsection}{\numberline {5.2.1.8}日期}{26}{subsubsection.5.2.1.8}
+\contentsline {subsection}{\numberline {5.2.2}致谢}{26}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}论文摘要}{26}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}目录}{26}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}图和附表清单}{26}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}符号说明}{27}{subsection.5.2.6}
+\contentsline {subsection}{\numberline {5.2.7}正文}{27}{subsection.5.2.7}
+\contentsline {subsubsection}{\numberline {5.2.7.1}章节标号}{27}{subsubsection.5.2.7.1}
+\contentsline {subsubsection}{\numberline {5.2.7.2}图、表及公式}{27}{subsubsection.5.2.7.2}
+\contentsline {subsubsection}{\numberline {5.2.7.3}引文标注}{28}{subsubsection.5.2.7.3}
+\contentsline {subsubsection}{\numberline {5.2.7.4}注释}{28}{subsubsection.5.2.7.4}
+\contentsline {subsubsection}{\numberline {5.2.7.5}量和单位}{28}{subsubsection.5.2.7.5}
+\contentsline {subsubsection}{\numberline {5.2.7.6}结论}{28}{subsubsection.5.2.7.6}
+\contentsline {subsection}{\numberline {5.2.8}参考文献}{28}{subsection.5.2.8}
+\contentsline {subsubsection}{\numberline {5.2.8.1}各种主要参考文献著录表的格式}{28}{subsubsection.5.2.8.1}
+\contentsline {subsubsection}{\numberline {5.2.8.2}文献类型、电子文献载体类型及其标志代码}{29}{subsubsection.5.2.8.2}
+\contentsline {subsection}{\numberline {5.2.9}附录}{29}{subsection.5.2.9}
+\contentsline {subsection}{\numberline {5.2.10}作者简历及在学期间发表的学术论文与研究成果}{30}{subsection.5.2.10}
+\contentsline {section}{\numberline {5.3}学位论文排版、印刷及装订要求}{30}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}封面}{30}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}书脊}{30}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}目录}{30}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}标题}{30}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}页眉与页码}{31}{subsection.5.3.5}
+\contentsline {subsection}{\numberline {5.3.6}论文段落文字部分}{31}{subsection.5.3.6}
+\contentsline {subsection}{\numberline {5.3.7}注释}{31}{subsection.5.3.7}
+\contentsline {subsection}{\numberline {5.3.8}参考文献}{31}{subsection.5.3.8}
+\contentsline {subsection}{\numberline {5.3.9}版面、印刷及装订要求}{31}{subsection.5.3.9}
+\addvspace {6\p@ }
+\contentsline {chapter}{参考文献\markboth {\MakeUppercase {参考文献}}{\MakeUppercase {参考文献}}}{33}{chapter*.18}
+\addvspace {6\p@ }
+\contentsline {chapter}{附录\hskip 1em\relax A}{37}{appendix.A}
+\contentsline {section}{\numberline {A.1}基本要求}{37}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}硕士学位论文}{37}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}博士学位论文}{37}{subsection.A.1.2}
+\contentsline {section}{\numberline {A.2}学位论文的组成部分和排列顺序}{38}{section.A.2}
+\contentsline {subsection}{\numberline {A.2.1}封面}{38}{subsection.A.2.1}
+\contentsline {subsection}{\numberline {A.2.2}论文摘要}{38}{subsection.A.2.2}
+\contentsline {subsection}{\numberline {A.2.3}论文目录}{38}{subsection.A.2.3}
+\contentsline {subsection}{\numberline {A.2.4}正文}{39}{subsection.A.2.4}
+\contentsline {subsection}{\numberline {A.2.5}参考文献}{39}{subsection.A.2.5}
+\contentsline {subsection}{\numberline {A.2.6}发表文章目录}{39}{subsection.A.2.6}
+\contentsline {subsection}{\numberline {A.2.7}致谢}{39}{subsection.A.2.7}
+\contentsline {section}{\numberline {A.3}学位论文的书写、装订要求}{40}{section.A.3}
+\addvspace {6\p@ }
+\contentsline {chapter}{索\hskip 1em\relax 引}{41}{section*.20}
+\addvspace {6\p@ }
+\contentsline {chapter}{作者简历及在学期间发表的学术论文与研究成果}{43}{appendix*.21}
+\addvspace {6\p@ }
+\contentsline {chapter}{学位论文数据集}{45}{appendix*.22}
