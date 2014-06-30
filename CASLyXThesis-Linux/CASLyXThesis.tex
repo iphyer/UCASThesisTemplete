@@ -15,6 +15,8 @@
 \PassOptionsToPackage{normalem}{ulem}
 \usepackage{ulem}
 \usepackage{nomencl}
+\usepackage[numbers,sort&compress]{natbib} 
+\usepackage{hypernat} 
 % the following is useful when we have the old nomencl.sty package
 \providecommand{\printnomenclature}{\printglossary}
 \providecommand{\makenomenclature}{\makeglossary}
@@ -261,7 +263,7 @@ Debian sid已经包含了\TeX{}Live2011，安装软件只需使用命令：
 \item 到 \href{http://www.lyx.org/Download}{http://www.lyx.org/Download}
 下载\LyX{}。
 \end{enumerate}
-由于安装\LyX{}时，\LyX{}安装程序会检测系统中的\TeX{}系统，所以安装顺序应为：C\TeX{}、\LyX{}和JabRef。
+由于安装\LyX{}时，\LyX{}安装程序会检测\cite{PhysRevB.87.184201}系统中的\TeX{}系统，所以安装\cite{RevModPhys.71.1253}顺序应为：C\TeX{}、\LyX{}和JabRef。
 
 
 \subsection{字体与软件配置}
@@ -332,7 +334,7 @@ Custom} 中设置文档类选项，用英文逗号分隔（无顺序要求）。
 
 \subsection{单图}
 
-单独的图形示例如图\ref{fig:=005355=0072EC=0056FE=00793A=004F8B}所示。插入方法为插入浮动图后，在图片位置插入所需图片。一般需要使用段落设置将图形设置为居中，在图形两边插入水平填充也可实现居中。引用图形时，需在图题处插入标签（\texttt{insert
+单独的图形示例如图\ref{figg}所示。插入方法为插入浮动图后，在图片位置插入所需图片。一般需要使用段落设置将图形设置为居中，在图形两边插入水平填充也可实现居中。引用图形时，需在图题处插入标签（\texttt{insert
 -{}-\textgreater{} label}），在需要引用处插入交叉引用（\texttt{insert -{}-\textgreater{}
 cross-reference}）。如果图题过长，会自动按悬挂缩进排版。
 
@@ -354,7 +356,7 @@ legend{ <30keV,30-50keV,50-70keV,70-90keV, >90keV}
 \end{axis}
 \end{tikzpicture}\hfill{}
 
-\caption[单独图示例]{单独图示例单独图示例单独图示例单独图示例单独图示例单独图示例单独图示例单独图示例单独图示例单独图示例单\cite{1998}独图示例\label{fig:=005355=0072EC=0056FE=00793A=004F8B}}
+\caption[单独图示例]{单独图示例单独图示例单独图示例单独图示例单独图示例单独图示例单独图示例单独图示例单独图示例单独图示例单\cite{1998}独图示例\label{figg}}
 \end{figure}
 
 
@@ -1395,7 +1397,9 @@ New Roman体五号。数字居中书写，页码数字两侧不要加“－”�
 
 \backmatter
 
-\bibliographystyle{GBT7714-2005NLang-UTF8}
+%\bibliographystyle{GBT7714-2005NLang-UTF8}
+%\bibliographystyle{plain}
+\bibliographystyle{gbt7714-2005}
 \bibliography{ckwx}
 
 
