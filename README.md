@@ -7,9 +7,9 @@ LaTeX template of PhD/graduate Thesis of University of Chinese Academy of Scienc
 
 根据中国科学院[中国科学院大学研究生学位论文撰写规定](http://www.gucas.ac.cn/site/82?u=60473)撰写。
 
-#2014.6.28
+# 2014.6.28
 清理出最纯净的模板，去除一切不必须文件
 
-#2014.6.30
+# 2014.6.30
 更换了参考文献的sty格式
 Linux版本添加make文件
